@@ -10,6 +10,6 @@ A modern, responsive landing page built to showcase web development skills inclu
 - **UX Enhancements:** Smooth scrolling and "Back to Top" functionality.
 
 ## Built With
-- HTML5 / CSS3
+- HTML
 - JavaScript
 - Git / GitHub
