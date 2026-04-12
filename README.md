@@ -1,4 +1,4 @@
-# UltraWatch 2026 - Product Landing Page
+# YuWatch 2026 - Product Landing Page
 
 A modern, responsive landing page built to showcase web development skills including CSS Grid, Flexbox, and JavaScript interactivity.
 
@@ -11,5 +11,5 @@ A modern, responsive landing page built to showcase web development skills inclu
 
 ## Built With
 - HTML5 / CSS3
-- JavaScript (Vanilla)
+- JavaScript
 - Git / GitHub
